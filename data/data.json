@@ -1,56 +1,43 @@
 [
-"appinfo":{
-	"version":'1'	
-	},
-	
-	workout_types : [
-
 	{
-		"id" :"1",
-		"name":"yoga",
-		"url":'',
-		"workouts": [
+	  "id":"1",
+	  "name":"yoga",
+	  "image":"",
+	  "workout":[
+		{
+		  "id":"1",
+		  "name":"Beginner",
+		  "Description":"",
+		  "exercise":[
 			{
-				"id": '1',
-				"name":'beginner',
-				"imageurl":'',
-				"excersizes":[
-					{
-						"id":"1',
-						"name":'Beginner',
-						"description":'In this class the basic, foundational yoga postures are practiced to align, strengthen and promote flexibility in the body. Breathing techniques and meditation are also integrated. You can expect an emphasis on simplicity, repetition, and ease of movement',
-						"video":'https://www.youtube.com/watch?v=VaoV1PrYft4',
-						
-					}
-				]
-			
+			  "id":"1",
+			  "name":"Beginner",
+			  "description":"",
+			  "videoLink":""
 			}
+			]
+		}
 		]
-	},
+	  },
 	{
-		"id" :"2",
-		"name":"gym",
-		"url":'',
-		"workouts": [
+	  "id":"2",
+	  "name":"gym",
+	  "image":"",
+	   "Description":"",
+	   "workout":[
+		{
+		  "id":"1",
+		  "name":"Beginner",
+		  "Description":"",
+		  "exercise":[
 			{
-				"id": '1',
-				"name":'beginner',
-				"imageurl":'',
-				"excersizes":[
-					{
-						"id":"1',
-						"name":'Beginner',
-						"description":'Start with one set of 8 to 12 repetitions (reps) for the first four weeks. When choosing weight, remember that the last 2 or 3 reps should be very difficult.
-Increase to 12 to 15 reps for the next four weeks',
-						"video":'https://www.youtube.com/watch?v=0by6K3wMlRc',
-						
-					}
-				]
-			
+			  "id":"1",
+			  "name":"Beginner",
+			  "description":"",
+			  "videoLink":""
 			}
+			]
+		}
 		]
-	},
-	
-]
-]
-
+	}
+	]
