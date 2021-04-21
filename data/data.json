@@ -6,6 +6,7 @@
     "workout": [
       {
         "id": "1",
+        "workout_id": "1",
         "name": "Beginner yoga",
         "Description": "",
         "exercise": [
@@ -27,6 +28,7 @@
     "workout": [
       {
         "id": "1",
+        "workout_id": "1",
         "name": "Beginner Gym",
         "Description": "",
         "exercise": [
