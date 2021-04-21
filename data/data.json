@@ -1,45 +1,43 @@
-{
-  "data": [
-    {
-      "id": "1",
-      "name": "yoga",
-      "image": "",
-      "workout": [
-        {
-          "id": "1",
-          "name": "Beginner yoga",
-          "Description": "",
-          "exercise": [
-            {
-              "id": "1",
-              "name": "Beginner exercise",
-              "description": "",
-              "videoLink": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "name": "gym",
-      "image": "",
-      "Description": "",
-      "workout": [
-        {
-          "id": "1",
-          "name": "Beginner Gym",
-          "Description": "",
-          "exercise": [
-            {
-              "id": "1",
-              "name": "Beginner exer gym",
-              "description": "",
-              "videoLink": ""
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "name": "yoga",
+    "image": "",
+    "workout": [
+      {
+        "id": "1",
+        "name": "Beginner yoga",
+        "Description": "",
+        "exercise": [
+          {
+            "id": "1",
+            "name": "Beginner exercise",
+            "description": "",
+            "videoLink": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "gym",
+    "image": "",
+    "Description": "",
+    "workout": [
+      {
+        "id": "1",
+        "name": "Beginner Gym",
+        "Description": "",
+        "exercise": [
+          {
+            "id": "1",
+            "name": "Beginner exer gym",
+            "description": "",
+            "videoLink": ""
+          }
+        ]
+      }
+    ]
+  }
+]
