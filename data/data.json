@@ -25,7 +25,7 @@
         "workout_id": "1",
         "name": "Classic yoga",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/Yoga.png",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/classic.jpeg",
         "exercise": [
           {
             "id": "1",
@@ -55,7 +55,7 @@
             "id": "1",
             "name": "Beginner exer gym",
             "description": "",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gym.jpeg",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/beginnersgym.jpg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           },
           {
@@ -77,14 +77,14 @@
             "id": "1",
             "name": "Classic exer gym",
             "description": "",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gym.png",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/classicgym.jpeg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           },
           {
             "id": "2",
             "name": "Push up gym",
             "description": "",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gym.png",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pushup.jpeg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           }
         ]
