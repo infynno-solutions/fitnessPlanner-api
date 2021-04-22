@@ -59,6 +59,26 @@
             "videoLink": ""
           }
         ]
+      },
+      {
+        "id": "2",
+        "workout_id": "2",
+        "name": "classic Gym",
+        "Description": "",
+        "exercise": [
+          {
+            "id": "1",
+            "name": "Classic exer gym",
+            "description": "",
+            "videoLink": ""
+          },
+          {
+            "id": "2",
+            "name": "Push up gym",
+            "description": "",
+            "videoLink": ""
+          }
+        ]
       }
     ]
   }
