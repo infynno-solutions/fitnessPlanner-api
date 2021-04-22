@@ -17,6 +17,20 @@
             "videoLink": ""
           }
         ]
+      },
+      {
+        "id": "2",
+        "workout_id": "1",
+        "name": "Classic yoga",
+        "Description": "",
+        "exercise": [
+          {
+            "id": "1",
+            "name": "classic exercise",
+            "description": "",
+            "videoLink": ""
+          }
+        ]
       }
     ]
   },
