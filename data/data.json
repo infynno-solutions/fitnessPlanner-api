@@ -49,7 +49,7 @@
         "workout_id": "2",
         "name": "Beginner Gym",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gym.jpeg",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gym.png",
         "exercise": [
           {
             "id": "1",
@@ -62,7 +62,7 @@
             "id": "2",
             "name": "Push up gym",
             "description": "",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gym.png",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pushup.jpeg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           }
         ]
