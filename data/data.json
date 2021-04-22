@@ -25,6 +25,7 @@
         "workout_id": "1",
         "name": "Classic yoga",
         "Description": "",
+		"image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/Yoga.png",
         "exercise": [
           {
             "id": "1",
@@ -42,6 +43,7 @@
     "name": "gym",
     "image": "",
     "Description": "",
+	"image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/bicep.jpeg",
     "workout": [
       {
         "id": "1",
