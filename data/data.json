@@ -35,6 +35,22 @@
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           }
         ]
+      },
+      {
+        "id": "3",
+        "workout_id": "1",
+        "name": "Expert yoga",
+        "Description": "",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expert.jpeg",
+        "exercise": [
+          {
+            "id": "1",
+            "name": "classic exercise",
+            "description": "",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/yogabanner.jpeg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+          }
+        ]
       }
     ]
   },
@@ -86,6 +102,29 @@
             "name": "Push up gym",
             "description": "",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pushup.jpeg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "workout_id": "2",
+        "name": "expert Gym",
+        "Description": "",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expertgym.jpeg",
+        "exercise": [
+          {
+            "id": "1",
+            "name": "Sit up",
+            "description": "Situps are classic abdominal exercises done by lying on your back and lifting your torso. They use your body weight to strengthen and tone the core-stabilizing abdominal muscles.",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/situp.jpeg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+          },
+          {
+            "id": "2",
+            "name": "Pull up ",
+            "description": "A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up.",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pullup.jpeg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           }
         ]
