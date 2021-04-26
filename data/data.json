@@ -41,7 +41,7 @@
         "workout_id": "1",
         "name": "Expert yoga",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expert.jpeg",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expertyoga.jpg",
         "exercise": [
           {
             "id": "1",
@@ -65,7 +65,7 @@
         "workout_id": "2",
         "name": "Beginner Gym",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gym.png",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gymbeginer.jpg",
         "exercise": [
           {
             "id": "1",
@@ -124,7 +124,7 @@
             "id": "2",
             "name": "Pull up ",
             "description": "A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up.",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pullup.jpeg",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pullups.jpg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           }
         ]
