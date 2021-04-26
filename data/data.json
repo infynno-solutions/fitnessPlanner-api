@@ -14,7 +14,7 @@
           {
             "id": "1",
             "name": "Beginner exercise",
-            "description": "",
+            "description": "The beauty of yoga is that you don’t have to be a yogi or yogini to reap the benefits. Whether you are young or old, overweight or fit, yoga has the power to calm the mind and strengthen the body. Don’t be intimidated by yoga terminology, fancy yoga studios and complicated poses. Yoga is for everyone",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/beginneryoga.jpeg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           }
@@ -46,7 +46,7 @@
           {
             "id": "1",
             "name": "classic exercise",
-            "description": "",
+            "description": "At this yoga level the student may have some previous experience with yoga postures, breath and relaxation techniques.  The pace may be a bit quicker or the postures may be held longer. Breath control and some knowledge with the different postures will be helpful for this class. As in all levels of yoga one should not create pain, injury or distracting discomfort in the body. Modifications are offered at this level.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/yogabanner.jpeg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           }
