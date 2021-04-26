@@ -9,7 +9,7 @@
         "workout_id": "1",
         "name": "Beginner yoga",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/Yoga.png",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/2.jpg",
         "exercise": [
           {
             "id": "1",
