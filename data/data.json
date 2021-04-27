@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "yoga",
-    "image": "https://uce6e24504d1a4c8272accec4583.previews.dropboxusercontent.com/p/thumb/ABKT2RL_g_eSIi-q0onJz9Enhr1WiSL5BbaB7jPN54QLJcwdfzkY8OFzj_JiZxzfwjX9BT2ZjbPBgQm2yuMNR3pcDGA0g-r4bRHX_JiXDYhe5rXkQNB5EvEbNAT16PfKokJAsPaSvmjbS25_NyAPs8lPfiy94ndxZccpPdzqw63KI_SiLWyppjUQ3j0K4GzK3IN8ptaDf5b85hie3uW7VH68nEZIqLtdhbKBT1hzUQ08smUtEeIepugY2AD6jkX1kFg5Ifc5rDEq-O_zNs6nCDJ85ysgXCIrG4n6XxaphATOzLVwGF7JXYkxvJutHQoX233v2Mfeudx5njQWqQK2U47-UJxYOJ3mXGPbKQL7s3gj7LZGbA-rL47rNmxnhTBmg7p7o6iT4SVmjeXa5e5gUFf2/p.png?fv_content=true&size_mode=5",
+    "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/Yoga.png",
     "workout": [
       {
         "id": "1",
@@ -80,6 +80,13 @@
             "description": "Not only will these make your back look killer in that dress, but dumbbell rows are also another compound exercise that strengthens multiple muscles in your upper body. Choose a moderate-weight dumbbell and ensure that you’re squeezing at the top of the movement.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/dumble.jpeg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+          },
+          {
+            "id": "3",
+            "name": "Banded Side Steps",
+            "description": "The lateral band walking exercise is the perfect way to improve hip stability, strengthen the hip abductors—particularly the gluteus medius—and increase stability of the knee joint. the lateral band walking exercise engages many of the deep muscles that stabilize the pelvis it improves overall body mechanics and movement efficiency during a workout.",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/bandedsidestep.jpg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
           }
         ]
       },
@@ -135,7 +142,7 @@
     "id": "3",
     "name": "Kids",
     "Description": "",
-    "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/bicep.jpeg",
+    "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/kids.jpeg",
     "workout": [
       {
         "id": "1",
