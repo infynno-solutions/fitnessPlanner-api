@@ -16,7 +16,7 @@
             "name": "Beginner Yoga Pose",
             "description": "The beauty of yoga is that you don’t have to be a yogi or yogini to reap the benefits. Whether you are young or old, overweight or fit, yoga has the power to calm the mind and strengthen the body. Don’t be intimidated by yoga terminology, fancy yoga studios and complicated poses. Yoga is for everyone.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/beginneryoga.jpeg",
-            "videoLink": "https://www.dropbox.com/s/et8267xvl4ips2u/ex1.mp4?dl=0"
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/beginneryoga.mp4"
           },
           {
             "id": "2",
@@ -39,14 +39,14 @@
             "name": "Chakrasan",
             "description": "Chakrasana is a strong back-bending yoga asana. It is popular in many forms of yoga and is part of the primary series of Ashtanga yoga. As well as being a back bend, chakrasana is seen in yoga as a heart opening posture and is thought to work on the heart chakra.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/chakrasab.jpeg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/chakrasan.mp4"
           },
           {
             "id": "2",
             "name": "Bharadvajasana",
             "description": "Regular practice of this asana teaches you to rotate your spinal column effectively, which increases the flexibility of your back and torso, and prepares you for the more advanced twists. Bharadvajasana mobilizes the thoracic spine, increases hip and shoulder flexibility, and it not only helps to relieve stress but also makes your life best.",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/chakrasab.jpeg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/bhardwajsan.jpg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/Bharadvajasan.mp4"
           }
         ]
       },
@@ -86,21 +86,21 @@
             "name": "Squats",
             "description": "Squats are the best strength exercise for beginners in terms of bang for your back.  A proper squat recruits so many muscles, it is a great bodyweight exercise for building muscle and it helps to burn 50-70 calories per day. Squats are considered a vital exercise for increasing the strength and size of the lower body muscles as well as developing core strength.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/squts.jpeg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/squat.mp4"
           },
           {
             "id": "2",
             "name": "Dumbbell rows",
             "description": "Not only will these make your back look killer in that dress, but dumbbell rows are also another compound exercise that strengthens multiple muscles in your upper body. Choose a moderate-weight dumbbell and ensure that you’re squeezing at the top of the movement.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/dumble.jpeg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/dumblerow.mp4"
           },
           {
             "id": "3",
             "name": "Banded Side Steps",
             "description": "The lateral band walking exercise is the perfect way to improve hip stability, strengthen the hip abductors—particularly the gluteus medius—and increase stability of the knee joint. the lateral band walking exercise engages many of the deep muscles that stabilize the pelvis it improves overall body mechanics and movement efficiency during a workout.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/bandedsidestep.jpg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/BandedSideSteps.mp4"
           }
         ]
       },
@@ -109,21 +109,21 @@
         "workout_id": "2",
         "name": "classic Gym",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/bicep.jpeg",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/classicgym.jpg",
         "exercise": [
           {
             "id": "1",
             "name": "Lunges",
             "description": "Challenging your balance is an essential part of a well-rounded exercise routine. Lunges do just that, promoting functional movement, while also increasing strength in your legs and glutes.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/lunges.jpeg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/lunges.mp4"
           },
           {
             "id": "2",
             "name": "Push up",
             "description": "Drop and give me 20! Pushups are one of the most basic, yet effective, body weight moves you can perform because of the number of muscles that are recruited to perform them.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pushup.jpeg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/pushup.mp4"
           }
         ]
       },
@@ -132,21 +132,21 @@
         "workout_id": "2",
         "name": "expert Gym",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expertgym.jpeg",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/weightlift.jpg",
         "exercise": [
           {
             "id": "1",
             "name": "Sit up",
             "description": "Situps are classic abdominal exercises done by lying on your back and lifting your torso. They use your body weight to strengthen and tone the core-stabilizing abdominal muscles.",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/situp.jpeg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/situp.jpg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/situp.mp4"
           },
           {
             "id": "2",
             "name": "Pull up ",
             "description": "A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pullups.jpg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/pullup.mp4"
           }
         ]
       }
@@ -163,21 +163,52 @@
         "workout_id": "3",
         "name": "Beginner Exercises",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gymbeginer.jpg",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/kids.jpg",
         "exercise": [
           {
             "id": "1",
             "name": "Bear Crawl",
             "description": " crawling around the floor for a few minutes at a time is not just good for body of kid, it’s also good for a brain. Crawling activates the development of the corpus callosum getting both sides of the body working together.",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/squts.jpeg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/bear.jpg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/bearcrowl.mp4"
           },
           {
             "id": "2",
             "name": "Skipping ",
             "description": "Skipping  help to develop core stability, coordination and body awareness in kids. Skipping improves hand and eye coordination, helps with nifty footwork and builds core strength. Since this physical activity engages the upper and lower body, it produces the benefits of an all-over workout.",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/dumble.jpeg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/ex1.mp4"
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/skipping.jpg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/skipping.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Old Age",
+    "Description": "",
+    "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/oldAge.jpg",
+    "workout": [
+      {
+        "id": "1",
+        "workout_id": "3",
+        "name": "Beginner Exercises",
+        "Description": "",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/oldAgebeginer.jpg",
+        "exercise": [
+          {
+            "id": "1",
+            "name": "Chair Yoga",
+            "description": "Chair yoga is a low-impact form of exercise that improves muscle strength, mobility, balance and flexibility, all of which are crucial health aspects for seniors. It provides less stress on muscles, joints, and bones than any other forms of yoga. It also helps to improve mental health in older adults.",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/chair.jpg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/chair.mp4"
+          },
+          {
+            "id": "2",
+            "name": "Pilates",
+            "description": "Pilates is perfect for older adults because it does not have the impact on the body that other forms of exercise do, and is not nearly as severe on the joints as most workouts are. Pilates focuses on building a strong “core”–the deep abdominal muscles along with the muscles closest to the spine. It is gentle enough for old age people.",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pilates.jpg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/pilates  .mp4"
           }
         ]
       }
