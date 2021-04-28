@@ -208,7 +208,7 @@
             "name": "Pilates",
             "description": "Pilates is perfect for older adults because it does not have the impact on the body that other forms of exercise do, and is not nearly as severe on the joints as most workouts are. Pilates focuses on building a strong “core”–the deep abdominal muscles along with the muscles closest to the spine. It is gentle enough for old age people.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/pilates.jpg",
-            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/pilates  .mp4"
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/pilates.mp4"
           }
         ]
       }
