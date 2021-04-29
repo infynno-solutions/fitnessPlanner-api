@@ -27,6 +27,14 @@
             "description": "Meditation is a practice where an individual uses a technique – such as mindfulness, or focusing the mind on a particular object, thought, or activity – to train attention and awareness, and achieve a mentally clear and emotionally calm and stable state.",
             "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/meditation.jpg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/meditation.mp4"
+          },
+          {
+            "id": "3",
+            "name": "Streaching",
+            "time": "5 min",
+            "description": "Stretching exercises have traditionally been included as part of a training and recovery program. Evidence shows that physical performance in terms of maximal strength, number of repetitions and total volume are all affected differently by the each form of stretching",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/streaching.jpg",
+            "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/streaching.mp4"
           }
         ]
       },
