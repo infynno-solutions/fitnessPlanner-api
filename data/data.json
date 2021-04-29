@@ -6,6 +6,7 @@
     "workout": [
       {
         "id": "1",
+        "time": "11 min",
         "workout_id": "1",
         "name": "Beginner yoga",
         "Description": "",
@@ -33,6 +34,7 @@
         "id": "2",
         "workout_id": "1",
         "name": "Classic yoga",
+        "time": "14 min",
         "Description": "",
         "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/classic.jpeg",
         "exercise": [
@@ -58,6 +60,7 @@
         "id": "3",
         "workout_id": "1",
         "name": "Expert yoga",
+        "time": "3 min",
         "Description": "",
         "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expertyoga.jpg",
         "exercise": [
@@ -84,6 +87,7 @@
         "workout_id": "2",
         "name": "Beginner Gym",
         "Description": "",
+        "time": "10 min",
         "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/gymbeginer.jpg",
         "exercise": [
           {
@@ -115,6 +119,7 @@
       {
         "id": "2",
         "workout_id": "2",
+        "time": "7 min",
         "name": "Classic Gym",
         "Description": "",
         "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/classicgym.jpg",
@@ -141,6 +146,7 @@
         "id": "3",
         "workout_id": "2",
         "name": "Expert Gym",
+        "time": "6 min",
         "Description": "",
         "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/weightlift.jpg",
         "exercise": [
@@ -175,6 +181,7 @@
         "workout_id": "3",
         "name": "Beginner Exercises",
         "Description": "",
+        "time": "6 min",
         "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/kids.jpg",
         "exercise": [
           {
@@ -208,6 +215,7 @@
         "workout_id": "3",
         "name": "Beginner Exercises",
         "Description": "",
+        "time": "15 min",
         "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/oldAgebeginer.jpg",
         "exercise": [
           {
