@@ -59,7 +59,7 @@
             "name": "Bharadvajasana",
             "time": "9 min",
             "description": "Regular practice of this asana teaches you to rotate your spinal column effectively, which increases the flexibility of your back and torso, and prepares you for the more advanced twists. Bharadvajasana mobilizes the thoracic spine, increases hip and shoulder flexibility, and it not only helps to relieve stress but also makes your life best.",
-            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/bhardwajsan.jpg",
+            "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/bhardwajsan.jpeg",
             "videoLink": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/video/Bharadvajasan.mp4"
           }
         ]
@@ -70,7 +70,7 @@
         "name": "Expert yoga",
         "time": "3 min",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expertyoga.jpg",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/yogabanner.jpeg",
         "exercise": [
           {
             "id": "1",
@@ -156,7 +156,7 @@
         "name": "Expert Gym",
         "time": "6 min",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/weightlift.jpg",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expert.jpg",
         "exercise": [
           {
             "id": "1",
