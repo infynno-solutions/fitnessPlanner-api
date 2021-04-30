@@ -156,7 +156,7 @@
         "name": "Expert Gym",
         "time": "6 min",
         "Description": "",
-        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expert.jpg",
+        "image": "https://raw.githubusercontent.com/infynno-solutions/fitnessPlanner-api/master/data/image/expertgym.jpg",
         "exercise": [
           {
             "id": "1",
